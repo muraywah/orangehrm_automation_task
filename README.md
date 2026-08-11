@@ -2,7 +2,7 @@
 ## Automate 
 ### 1. Login flow 
 ### 2. Navigate to my info and update the following info fields:
-    Employers full name  
+    Employee's full name  
     Employee id  
     Other id  
     Driver license number  
