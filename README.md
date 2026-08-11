@@ -1,3 +1,16 @@
+#TASK:
+Automate 
+1. Login flow 
+2. Navigate to my info and update the following info fields
+  Employers full name
+  Employee id
+  Other id
+  Driver license number 
+  Martial status to married
+  Then save
+3. Go to admin and delete on record
+
+
 # OrangeHRM Automation Testing
 
 Automated testing project for the OrangeHRM demo application using Playwright, Python, and Pytest.
